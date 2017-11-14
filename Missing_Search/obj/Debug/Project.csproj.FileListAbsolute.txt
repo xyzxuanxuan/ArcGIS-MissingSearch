@@ -1,0 +1,8 @@
+M:\C# PROJECTS\GEO555 Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+M:\C# PROJECTS\GEO555 Project\Project\obj\Debug\Project.Missing_Search.resources
+M:\C# PROJECTS\GEO555 Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+M:\C# PROJECTS\GEO555 Project\Project\bin\Debug\Project.dll
+M:\C# PROJECTS\GEO555 Project\Project\bin\Debug\Project.pdb
+M:\C# PROJECTS\GEO555 Project\Project\obj\Debug\Project.dll
+M:\C# PROJECTS\GEO555 Project\Project\obj\Debug\Project.pdb
+M:\C# PROJECTS\GEO555 Project\Project\bin\Debug\Project.esriAddIn
